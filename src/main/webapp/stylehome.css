@@ -1,0 +1,17 @@
+body {
+	background: linear-gradient(rgb(255, 255, 255, 0.5), rgb(255, 255, 255, 0.5)), url("./background img/ramen-6128685_1280.png");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.section {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	/* ビューポートの高さに合わせる */
+	text-align: center;
+	/* テキストを中央に配置 */
+}

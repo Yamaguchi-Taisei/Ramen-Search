@@ -1,0 +1,11 @@
+body {
+	background: linear-gradient(rgb(255, 255, 255, 0.5), rgb(255, 255, 255, 0.5)), url("./background img/ramen-6128685_1280.png");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.section{
+	margin-left: 100px;
+	margin-right: 100px
+}
